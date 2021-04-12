@@ -1,0 +1,13 @@
+C:\Users\lince\source\repos\TestAverage\TestAverage\bin\Debug\netcoreapp3.1\TestAverage.exe
+C:\Users\lince\source\repos\TestAverage\TestAverage\bin\Debug\netcoreapp3.1\TestAverage.deps.json
+C:\Users\lince\source\repos\TestAverage\TestAverage\bin\Debug\netcoreapp3.1\TestAverage.runtimeconfig.json
+C:\Users\lince\source\repos\TestAverage\TestAverage\bin\Debug\netcoreapp3.1\TestAverage.runtimeconfig.dev.json
+C:\Users\lince\source\repos\TestAverage\TestAverage\bin\Debug\netcoreapp3.1\TestAverage.dll
+C:\Users\lince\source\repos\TestAverage\TestAverage\bin\Debug\netcoreapp3.1\TestAverage.pdb
+C:\Users\lince\source\repos\TestAverage\TestAverage\obj\Debug\netcoreapp3.1\TestAverage.csprojAssemblyReference.cache
+C:\Users\lince\source\repos\TestAverage\TestAverage\obj\Debug\netcoreapp3.1\TestAverage.AssemblyInfoInputs.cache
+C:\Users\lince\source\repos\TestAverage\TestAverage\obj\Debug\netcoreapp3.1\TestAverage.AssemblyInfo.cs
+C:\Users\lince\source\repos\TestAverage\TestAverage\obj\Debug\netcoreapp3.1\TestAverage.csproj.CoreCompileInputs.cache
+C:\Users\lince\source\repos\TestAverage\TestAverage\obj\Debug\netcoreapp3.1\TestAverage.dll
+C:\Users\lince\source\repos\TestAverage\TestAverage\obj\Debug\netcoreapp3.1\TestAverage.pdb
+C:\Users\lince\source\repos\TestAverage\TestAverage\obj\Debug\netcoreapp3.1\TestAverage.genruntimeconfig.cache
